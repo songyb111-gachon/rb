@@ -1,0 +1,8 @@
+Scanning dependencies of target roboticsgroup_gazebo_mimic_joint_plugin
+[ 25%] Building CXX object CMakeFiles/roboticsgroup_gazebo_mimic_joint_plugin.dir/src/mimic_joint_plugin.cpp.o
+[ 50%] Linking CXX shared library /root/catkin_ws/devel/.private/roboticsgroup_gazebo_plugins/lib/libroboticsgroup_gazebo_mimic_joint_plugin.so
+[ 50%] Built target roboticsgroup_gazebo_mimic_joint_plugin
+Scanning dependencies of target roboticsgroup_gazebo_disable_link_plugin
+[ 75%] Building CXX object CMakeFiles/roboticsgroup_gazebo_disable_link_plugin.dir/src/disable_link_plugin.cpp.o
+[100%] Linking CXX shared library /root/catkin_ws/devel/.private/roboticsgroup_gazebo_plugins/lib/libroboticsgroup_gazebo_disable_link_plugin.so
+[100%] Built target roboticsgroup_gazebo_disable_link_plugin

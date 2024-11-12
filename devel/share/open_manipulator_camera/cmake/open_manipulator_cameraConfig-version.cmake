@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/open_manipulator_camera/share/open_manipulator_camera/cmake/open_manipulator_cameraConfig-version.cmake

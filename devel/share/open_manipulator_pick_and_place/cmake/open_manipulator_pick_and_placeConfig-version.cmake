@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/open_manipulator_pick_and_place/share/open_manipulator_pick_and_place/cmake/open_manipulator_pick_and_placeConfig-version.cmake

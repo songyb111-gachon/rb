@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/robotis_manipulator/share/robotis_manipulator/cmake/robotis_manipulatorConfig.cmake

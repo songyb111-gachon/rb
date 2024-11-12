@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/open_manipulator_ar_markers/share/open_manipulator_ar_markers/cmake/open_manipulator_ar_markersConfig-version.cmake

@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/turtlebot3_autorace_msgs/share/roseus/ros/turtlebot3_autorace_msgs/manifest.l

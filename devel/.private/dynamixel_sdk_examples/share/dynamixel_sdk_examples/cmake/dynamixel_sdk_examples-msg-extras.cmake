@@ -1,0 +1,2 @@
+set(dynamixel_sdk_examples_MESSAGE_FILES "/root/catkin_ws/src/DynamixelSDK/ros/dynamixel_sdk_examples/msg/SetPosition.msg;/root/catkin_ws/src/DynamixelSDK/ros/dynamixel_sdk_examples/msg/SyncSetPosition.msg;/root/catkin_ws/src/DynamixelSDK/ros/dynamixel_sdk_examples/msg/BulkSetItem.msg")
+set(dynamixel_sdk_examples_SERVICE_FILES "/root/catkin_ws/src/DynamixelSDK/ros/dynamixel_sdk_examples/srv/GetPosition.srv;/root/catkin_ws/src/DynamixelSDK/ros/dynamixel_sdk_examples/srv/SyncGetPosition.srv;/root/catkin_ws/src/DynamixelSDK/ros/dynamixel_sdk_examples/srv/BulkGetItem.srv")

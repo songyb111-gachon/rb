@@ -1,0 +1,37 @@
+Scanning dependencies of target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+Scanning dependencies of target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+Scanning dependencies of target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+Scanning dependencies of target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+Scanning dependencies of target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+Scanning dependencies of target roscpp_generate_messages_py
+[  0%] Built target roscpp_generate_messages_py
+Scanning dependencies of target roscpp_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_cpp
+Scanning dependencies of target roscpp_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_eus
+Scanning dependencies of target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_py
+Scanning dependencies of target roscpp_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+Scanning dependencies of target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_nodejs
+Scanning dependencies of target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+Scanning dependencies of target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+Scanning dependencies of target open_manipulator_libs
+[ 20%] Building CXX object CMakeFiles/open_manipulator_libs.dir/src/open_manipulator.cpp.o
+[ 40%] Building CXX object CMakeFiles/open_manipulator_libs.dir/src/custom_trajectory.cpp.o
+[ 60%] Building CXX object CMakeFiles/open_manipulator_libs.dir/src/dynamixel.cpp.o
+[ 80%] Building CXX object CMakeFiles/open_manipulator_libs.dir/src/kinematics.cpp.o
+[100%] Linking CXX shared library /root/catkin_ws/devel/.private/open_manipulator_libs/lib/libopen_manipulator_libs.so
+[100%] Built target open_manipulator_libs

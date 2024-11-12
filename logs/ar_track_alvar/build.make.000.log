@@ -1,0 +1,245 @@
+Scanning dependencies of target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+Scanning dependencies of target nodelet_generate_messages_py
+[  0%] Built target nodelet_generate_messages_py
+Scanning dependencies of target std_srvs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_nodejs
+Scanning dependencies of target bond_generate_messages_nodejs
+[  0%] Built target bond_generate_messages_nodejs
+Scanning dependencies of target nodelet_generate_messages_nodejs
+[  0%] Built target nodelet_generate_messages_nodejs
+Scanning dependencies of target nodelet_generate_messages_eus
+[  0%] Built target nodelet_generate_messages_eus
+Scanning dependencies of target pcl_msgs_generate_messages_py
+[  0%] Built target pcl_msgs_generate_messages_py
+Scanning dependencies of target pcl_msgs_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_lisp
+Scanning dependencies of target pcl_msgs_generate_messages_nodejs
+[  0%] Built target pcl_msgs_generate_messages_nodejs
+Scanning dependencies of target pcl_msgs_generate_messages_eus
+[  0%] Built target pcl_msgs_generate_messages_eus
+Scanning dependencies of target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+Scanning dependencies of target pcl_ros_gencfg
+[  0%] Built target pcl_ros_gencfg
+Scanning dependencies of target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+Scanning dependencies of target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+Scanning dependencies of target actionlib_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_eus
+Scanning dependencies of target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_nodejs
+Scanning dependencies of target roscpp_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_eus
+Scanning dependencies of target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+Scanning dependencies of target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+Scanning dependencies of target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+Scanning dependencies of target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+Scanning dependencies of target ar_track_alvar_msgs_generate_messages_cpp
+[  0%] Built target ar_track_alvar_msgs_generate_messages_cpp
+Scanning dependencies of target ar_track_alvar_msgs_generate_messages_lisp
+[  0%] Built target ar_track_alvar_msgs_generate_messages_lisp
+Scanning dependencies of target visualization_msgs_generate_messages_eus
+[  0%] Built target visualization_msgs_generate_messages_eus
+Scanning dependencies of target visualization_msgs_generate_messages_nodejs
+[  0%] Built target visualization_msgs_generate_messages_nodejs
+Scanning dependencies of target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_py
+Scanning dependencies of target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+Scanning dependencies of target actionlib_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_py
+Scanning dependencies of target std_srvs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_cpp
+Scanning dependencies of target dynamic_reconfigure_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+Scanning dependencies of target actionlib_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_eus
+Scanning dependencies of target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+Scanning dependencies of target ar_track_alvar_msgs_generate_messages_py
+[  0%] Built target ar_track_alvar_msgs_generate_messages_py
+Scanning dependencies of target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+Scanning dependencies of target geometry_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+Scanning dependencies of target ar_track_alvar_msgs_generate_messages_eus
+[  0%] Built target ar_track_alvar_msgs_generate_messages_eus
+Scanning dependencies of target tf_generate_messages_py
+[  0%] Built target tf_generate_messages_py
+Scanning dependencies of target ar_track_alvar_msgs_generate_messages_nodejs
+[  0%] Built target ar_track_alvar_msgs_generate_messages_nodejs
+Scanning dependencies of target actionlib_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+Scanning dependencies of target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+Scanning dependencies of target ar_track_alvar_gencfg
+[  2%] Generating dynamic reconfigure files from cfg/Params.cfg: /root/catkin_ws/devel/.private/ar_track_alvar/include/ar_track_alvar/ParamsConfig.h /root/catkin_ws/devel/.private/ar_track_alvar/lib/python3/dist-packages/ar_track_alvar/cfg/ParamsConfig.py
+Generating reconfiguration files for Params in ar_track_alvar
+Wrote header file in /root/catkin_ws/devel/.private/ar_track_alvar/include/ar_track_alvar/ParamsConfig.h
+[  2%] Built target ar_track_alvar_gencfg
+Scanning dependencies of target tf2_msgs_generate_messages_eus
+[  2%] Built target tf2_msgs_generate_messages_eus
+Scanning dependencies of target geometry_msgs_generate_messages_py
+[  2%] Built target geometry_msgs_generate_messages_py
+Scanning dependencies of target bond_generate_messages_lisp
+[  2%] Built target bond_generate_messages_lisp
+Scanning dependencies of target nodelet_topic_tools_gencfg
+[  2%] Built target nodelet_topic_tools_gencfg
+Scanning dependencies of target sensor_msgs_generate_messages_eus
+[  2%] Built target sensor_msgs_generate_messages_eus
+Scanning dependencies of target tf_generate_messages_eus
+[  2%] Built target tf_generate_messages_eus
+Scanning dependencies of target visualization_msgs_generate_messages_cpp
+[  2%] Built target visualization_msgs_generate_messages_cpp
+Scanning dependencies of target bond_generate_messages_eus
+[  2%] Built target bond_generate_messages_eus
+Scanning dependencies of target bond_generate_messages_cpp
+[  2%] Built target bond_generate_messages_cpp
+Scanning dependencies of target tf2_msgs_generate_messages_py
+[  2%] Built target tf2_msgs_generate_messages_py
+Scanning dependencies of target roscpp_generate_messages_py
+[  2%] Built target roscpp_generate_messages_py
+Scanning dependencies of target sensor_msgs_generate_messages_nodejs
+[  2%] Built target sensor_msgs_generate_messages_nodejs
+Scanning dependencies of target geometry_msgs_generate_messages_eus
+[  2%] Built target geometry_msgs_generate_messages_eus
+Scanning dependencies of target std_msgs_generate_messages_py
+[  2%] Built target std_msgs_generate_messages_py
+Scanning dependencies of target dynamic_reconfigure_gencfg
+[  2%] Built target dynamic_reconfigure_gencfg
+Scanning dependencies of target pcl_msgs_generate_messages_cpp
+[  2%] Built target pcl_msgs_generate_messages_cpp
+Scanning dependencies of target sensor_msgs_generate_messages_cpp
+[  2%] Built target sensor_msgs_generate_messages_cpp
+Scanning dependencies of target roscpp_generate_messages_cpp
+[  2%] Built target roscpp_generate_messages_cpp
+Scanning dependencies of target dynamic_reconfigure_generate_messages_lisp
+[  2%] Built target dynamic_reconfigure_generate_messages_lisp
+Scanning dependencies of target std_srvs_generate_messages_eus
+[  2%] Built target std_srvs_generate_messages_eus
+Scanning dependencies of target topic_tools_generate_messages_cpp
+[  2%] Built target topic_tools_generate_messages_cpp
+Scanning dependencies of target visualization_msgs_generate_messages_py
+[  2%] Built target visualization_msgs_generate_messages_py
+Scanning dependencies of target topic_tools_generate_messages_eus
+[  2%] Built target topic_tools_generate_messages_eus
+Scanning dependencies of target topic_tools_generate_messages_lisp
+[  2%] Built target topic_tools_generate_messages_lisp
+Scanning dependencies of target topic_tools_generate_messages_nodejs
+[  2%] Built target topic_tools_generate_messages_nodejs
+Scanning dependencies of target tf_generate_messages_cpp
+[  2%] Built target tf_generate_messages_cpp
+Scanning dependencies of target tf_generate_messages_lisp
+[  2%] Built target tf_generate_messages_lisp
+Scanning dependencies of target roscpp_generate_messages_lisp
+[  2%] Built target roscpp_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_eus
+[  2%] Built target std_msgs_generate_messages_eus
+Scanning dependencies of target std_srvs_generate_messages_lisp
+[  2%] Built target std_srvs_generate_messages_lisp
+Scanning dependencies of target topic_tools_generate_messages_py
+[  2%] Built target topic_tools_generate_messages_py
+Scanning dependencies of target tf_generate_messages_nodejs
+[  2%] Built target tf_generate_messages_nodejs
+Scanning dependencies of target actionlib_generate_messages_lisp
+[  2%] Built target actionlib_generate_messages_lisp
+Scanning dependencies of target actionlib_generate_messages_cpp
+[  2%] Built target actionlib_generate_messages_cpp
+Scanning dependencies of target std_srvs_generate_messages_py
+[  2%] Built target std_srvs_generate_messages_py
+Scanning dependencies of target actionlib_generate_messages_nodejs
+[  2%] Built target actionlib_generate_messages_nodejs
+Scanning dependencies of target actionlib_generate_messages_py
+[  2%] Built target actionlib_generate_messages_py
+Scanning dependencies of target actionlib_msgs_generate_messages_cpp
+[  2%] Built target actionlib_msgs_generate_messages_cpp
+Scanning dependencies of target tf2_msgs_generate_messages_lisp
+[  2%] Built target tf2_msgs_generate_messages_lisp
+Scanning dependencies of target sensor_msgs_generate_messages_lisp
+[  2%] Built target sensor_msgs_generate_messages_lisp
+Scanning dependencies of target nodelet_generate_messages_cpp
+[  2%] Built target nodelet_generate_messages_cpp
+Scanning dependencies of target tf2_msgs_generate_messages_nodejs
+[  2%] Built target tf2_msgs_generate_messages_nodejs
+Scanning dependencies of target visualization_msgs_generate_messages_lisp
+[  2%] Built target visualization_msgs_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_cpp
+[  2%] Built target std_msgs_generate_messages_cpp
+Scanning dependencies of target bond_generate_messages_py
+[  2%] Built target bond_generate_messages_py
+Scanning dependencies of target tf2_msgs_generate_messages_cpp
+[  2%] Built target tf2_msgs_generate_messages_cpp
+Scanning dependencies of target nodelet_generate_messages_lisp
+[  2%] Built target nodelet_generate_messages_lisp
+Scanning dependencies of target sensor_msgs_generate_messages_py
+[  2%] Built target sensor_msgs_generate_messages_py
+Scanning dependencies of target ar_track_alvar
+[  4%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/Bitset.cpp.o
+[  6%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/Camera.cpp.o
+[  8%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/CaptureDevice.cpp.o
+[ 10%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/CaptureFactory.cpp.o
+[ 12%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/CaptureFactory_unix.cpp.o
+[ 14%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/ConnectedComponents.cpp.o
+[ 17%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/CvTestbed.cpp.o
+[ 19%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/DirectoryIterator.cpp.o
+[ 21%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/DirectoryIterator_unix.cpp.o
+[ 23%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/Draw.cpp.o
+[ 25%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/FileFormatUtils.cpp.o
+[ 27%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/Filter.cpp.o
+[ 29%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/Kalman.cpp.o
+[ 31%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/Line.cpp.o
+[ 34%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/Marker.cpp.o
+[ 36%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/MarkerDetector.cpp.o
+[ 38%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/MultiMarker.cpp.o
+[ 40%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/MultiMarkerBundle.cpp.o
+[ 42%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/MultiMarkerInitializer.cpp.o
+[ 44%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/Mutex.cpp.o
+[ 46%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/Mutex_unix.cpp.o
+[ 48%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/Optimization.cpp.o
+[ 51%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/Plugin.cpp.o
+[ 53%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/Plugin_unix.cpp.o
+[ 55%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/Pose.cpp.o
+[ 57%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/Rotation.cpp.o
+[ 59%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/Threads.cpp.o
+[ 61%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/Threads_unix.cpp.o
+[ 63%] Building CXX object CMakeFiles/ar_track_alvar.dir/src/Util.cpp.o
+[ 65%] Linking CXX shared library /root/catkin_ws/devel/.private/ar_track_alvar/lib/libar_track_alvar.so
+[ 65%] Built target ar_track_alvar
+Scanning dependencies of target kinect_filtering
+[ 68%] Building CXX object CMakeFiles/kinect_filtering.dir/src/kinect_filtering.cpp.o
+[ 70%] Linking CXX shared library /root/catkin_ws/devel/.private/ar_track_alvar/lib/libkinect_filtering.so
+[ 70%] Built target kinect_filtering
+Scanning dependencies of target medianFilter
+[ 72%] Building CXX object CMakeFiles/medianFilter.dir/src/medianFilter.cpp.o
+[ 74%] Linking CXX shared library /root/catkin_ws/devel/.private/ar_track_alvar/lib/libmedianFilter.so
+[ 74%] Built target medianFilter
+Scanning dependencies of target individualMarkers
+[ 76%] Building CXX object CMakeFiles/individualMarkers.dir/nodes/IndividualMarkers.cpp.o
+[ 78%] Linking CXX executable /root/catkin_ws/devel/.private/ar_track_alvar/lib/ar_track_alvar/individualMarkers
+[ 78%] Built target individualMarkers
+Scanning dependencies of target findMarkerBundles
+[ 80%] Building CXX object CMakeFiles/findMarkerBundles.dir/nodes/FindMarkerBundles.cpp.o
+[ 82%] Linking CXX executable /root/catkin_ws/devel/.private/ar_track_alvar/lib/ar_track_alvar/findMarkerBundles
+[ 82%] Built target findMarkerBundles
+Scanning dependencies of target findMarkerBundlesNoKinect
+[ 85%] Building CXX object CMakeFiles/findMarkerBundlesNoKinect.dir/nodes/FindMarkerBundlesNoKinect.cpp.o
+[ 87%] Linking CXX executable /root/catkin_ws/devel/.private/ar_track_alvar/lib/ar_track_alvar/findMarkerBundlesNoKinect
+[ 87%] Built target findMarkerBundlesNoKinect
+Scanning dependencies of target individualMarkersNoKinect
+[ 89%] Building CXX object CMakeFiles/individualMarkersNoKinect.dir/nodes/IndividualMarkersNoKinect.cpp.o
+[ 91%] Linking CXX executable /root/catkin_ws/devel/.private/ar_track_alvar/lib/ar_track_alvar/individualMarkersNoKinect
+[ 91%] Built target individualMarkersNoKinect
+Scanning dependencies of target trainMarkerBundle
+[ 93%] Building CXX object CMakeFiles/trainMarkerBundle.dir/nodes/TrainMarkerBundle.cpp.o
+[ 95%] Linking CXX executable /root/catkin_ws/devel/.private/ar_track_alvar/lib/ar_track_alvar/trainMarkerBundle
+[ 95%] Built target trainMarkerBundle
+Scanning dependencies of target createMarker
+[ 97%] Building CXX object CMakeFiles/createMarker.dir/src/SampleMarkerCreator.cpp.o
+[100%] Linking CXX executable /root/catkin_ws/devel/.private/ar_track_alvar/lib/ar_track_alvar/createMarker
+[100%] Built target createMarker

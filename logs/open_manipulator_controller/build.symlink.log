@@ -1,0 +1,4 @@
+Linked: (/root/catkin_ws/devel/.private/open_manipulator_controller/lib/pkgconfig/open_manipulator_controller.pc, /root/catkin_ws/devel/lib/pkgconfig/open_manipulator_controller.pc)
+Linked: (/root/catkin_ws/devel/.private/open_manipulator_controller/lib/open_manipulator_controller/open_manipulator_controller, /root/catkin_ws/devel/lib/open_manipulator_controller/open_manipulator_controller)
+Linked: (/root/catkin_ws/devel/.private/open_manipulator_controller/share/open_manipulator_controller/cmake/open_manipulator_controllerConfig.cmake, /root/catkin_ws/devel/share/open_manipulator_controller/cmake/open_manipulator_controllerConfig.cmake)
+Linked: (/root/catkin_ws/devel/.private/open_manipulator_controller/share/open_manipulator_controller/cmake/open_manipulator_controllerConfig-version.cmake, /root/catkin_ws/devel/share/open_manipulator_controller/cmake/open_manipulator_controllerConfig-version.cmake)

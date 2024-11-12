@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/turtlebot3_autorace_msgs/share/turtlebot3_autorace_msgs/cmake/turtlebot3_autorace_msgs-msg-extras.cmake

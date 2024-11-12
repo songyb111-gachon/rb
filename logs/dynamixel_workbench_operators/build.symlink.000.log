@@ -1,0 +1,5 @@
+Symlinking /root/catkin_ws/devel/lib/pkgconfig/dynamixel_workbench_operators.pc
+Symlinking /root/catkin_ws/devel/lib/dynamixel_workbench_operators/wheel_operator
+Symlinking /root/catkin_ws/devel/lib/dynamixel_workbench_operators/joint_operator
+Symlinking /root/catkin_ws/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig.cmake
+Symlinking /root/catkin_ws/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig-version.cmake

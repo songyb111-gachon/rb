@@ -1,0 +1,4 @@
+Symlinking /root/catkin_ws/devel/lib/pkgconfig/open_manipulator_controller.pc
+Symlinking /root/catkin_ws/devel/lib/open_manipulator_controller/open_manipulator_controller
+Symlinking /root/catkin_ws/devel/share/open_manipulator_controller/cmake/open_manipulator_controllerConfig.cmake
+Symlinking /root/catkin_ws/devel/share/open_manipulator_controller/cmake/open_manipulator_controllerConfig-version.cmake

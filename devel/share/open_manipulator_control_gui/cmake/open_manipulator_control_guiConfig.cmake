@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/open_manipulator_control_gui/share/open_manipulator_control_gui/cmake/open_manipulator_control_guiConfig.cmake

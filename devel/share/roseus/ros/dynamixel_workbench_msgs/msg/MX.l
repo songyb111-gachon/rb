@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/dynamixel_workbench_msgs/share/roseus/ros/dynamixel_workbench_msgs/msg/MX.l

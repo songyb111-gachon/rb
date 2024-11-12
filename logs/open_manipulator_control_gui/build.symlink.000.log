@@ -1,0 +1,5 @@
+Symlinking /root/catkin_ws/devel/include/open_manipulator_control_gui/ui_main_window.h
+Symlinking /root/catkin_ws/devel/lib/open_manipulator_control_gui/open_manipulator_control_gui
+Symlinking /root/catkin_ws/devel/lib/pkgconfig/open_manipulator_control_gui.pc
+Symlinking /root/catkin_ws/devel/share/open_manipulator_control_gui/cmake/open_manipulator_control_guiConfig.cmake
+Symlinking /root/catkin_ws/devel/share/open_manipulator_control_gui/cmake/open_manipulator_control_guiConfig-version.cmake
