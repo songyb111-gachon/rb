@@ -1,0 +1,7 @@
+dynamixel-workbench/dynamixel_workbench_operators
+/root/catkin_ws/devel/.private/dynamixel_workbench_operators/cmake.lock /root/catkin_ws/devel/./cmake.lock
+/root/catkin_ws/devel/.private/dynamixel_workbench_operators/lib/dynamixel_workbench_operators/wheel_operator /root/catkin_ws/devel/lib/dynamixel_workbench_operators/wheel_operator
+/root/catkin_ws/devel/.private/dynamixel_workbench_operators/lib/dynamixel_workbench_operators/joint_operator /root/catkin_ws/devel/lib/dynamixel_workbench_operators/joint_operator
+/root/catkin_ws/devel/.private/dynamixel_workbench_operators/lib/pkgconfig/dynamixel_workbench_operators.pc /root/catkin_ws/devel/lib/pkgconfig/dynamixel_workbench_operators.pc
+/root/catkin_ws/devel/.private/dynamixel_workbench_operators/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig-version.cmake /root/catkin_ws/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig-version.cmake
+/root/catkin_ws/devel/.private/dynamixel_workbench_operators/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig.cmake /root/catkin_ws/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig.cmake

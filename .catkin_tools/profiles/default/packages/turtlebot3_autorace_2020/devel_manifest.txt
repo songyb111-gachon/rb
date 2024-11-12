@@ -1,0 +1,2 @@
+turtlebot_autorace_2020_manipulator/turtlebot3_autorace_2020
+/root/catkin_ws/devel/.private/turtlebot3_autorace_2020/cmake.lock /root/catkin_ws/devel/./cmake.lock

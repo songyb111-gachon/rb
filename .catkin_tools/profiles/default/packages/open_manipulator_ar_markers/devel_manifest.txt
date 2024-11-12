@@ -1,0 +1,5 @@
+open_manipualtor_perceptions/open_manipulator_ar_markers
+/root/catkin_ws/devel/.private/open_manipulator_ar_markers/cmake.lock /root/catkin_ws/devel/./cmake.lock
+/root/catkin_ws/devel/.private/open_manipulator_ar_markers/lib/pkgconfig/open_manipulator_ar_markers.pc /root/catkin_ws/devel/lib/pkgconfig/open_manipulator_ar_markers.pc
+/root/catkin_ws/devel/.private/open_manipulator_ar_markers/share/open_manipulator_ar_markers/cmake/open_manipulator_ar_markersConfig.cmake /root/catkin_ws/devel/share/open_manipulator_ar_markers/cmake/open_manipulator_ar_markersConfig.cmake
+/root/catkin_ws/devel/.private/open_manipulator_ar_markers/share/open_manipulator_ar_markers/cmake/open_manipulator_ar_markersConfig-version.cmake /root/catkin_ws/devel/share/open_manipulator_ar_markers/cmake/open_manipulator_ar_markersConfig-version.cmake

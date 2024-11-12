@@ -1,0 +1,2 @@
+open_manipulator/open_manipulator
+/root/catkin_ws/devel/.private/open_manipulator/cmake.lock /root/catkin_ws/devel/./cmake.lock
